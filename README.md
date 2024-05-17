@@ -1,4 +1,13 @@
-# Soartex Modded Textures 1.18.x
+# Soartex Modded Textures 1.20.x
+
+### IMPORTANT NOTE
+
+A lot of stuff is currently broken and missing here and I am mostly focussing on mods I use like:
+* Create
+* Mekanism
+* Thermal Series
+My main goal here is to get the model.json files up and running, to make use of as much from "Soartex Modded Base" as possible. I will also be trying to import across a lot of the 1.12.2 textures I made in the past.
+- Eleiyas
 
 ### Created by everyone for everyone!
 
