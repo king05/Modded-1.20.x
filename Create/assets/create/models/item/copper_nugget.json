@@ -1,6 +1,6 @@
 ﻿{
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "soartex_base:item/nugget/zinc"
+    "layer0": "soartex_base:item/nugget/copper"
   }
 }
