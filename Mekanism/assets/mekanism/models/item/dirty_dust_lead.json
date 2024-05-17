@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "soartex_base:items/dust/dirty/lead"
+    "layer0": "soartex_base:item/dust/dirty/lead"
   }
 }
