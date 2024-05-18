@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "soartex_base:items/gear/enderium"
+    "layer0": "soartex_base:item/gear/enderium"
   }
 }

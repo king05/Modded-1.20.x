@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "soartex_base:items/gear/nickel"
+    "layer0": "soartex_base:item/gear/nickel"
   }
 }

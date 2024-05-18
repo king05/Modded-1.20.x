@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "soartex_base:items/ingot/signalum"
+    "layer0": "soartex_base:item/ingot/signalum"
   }
 }

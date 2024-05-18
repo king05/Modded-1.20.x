@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "soartex_base:items/dust/invar"
+    "layer0": "soartex_base:item/dust/invar"
   }
 }
