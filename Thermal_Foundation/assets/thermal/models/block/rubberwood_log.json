@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "soartex_base:block/wood/rubber/log_top",
+      "side": "soartex_base:block/wood/rubber/log"
+    }
+  }

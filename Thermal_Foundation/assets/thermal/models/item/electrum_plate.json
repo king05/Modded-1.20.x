@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "soartex_base:item/material/slag"
+    "layer0": "soartex_base:item/plate/electrum"
   }
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+      "cross": "soartex_base:block/wood/rubber/sapling"
+    }
+  }
