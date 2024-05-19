@@ -1,6 +1,6 @@
 ﻿{
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "soartex_base:items/tool/diamond/sickle"
+    "layer0": "soartex_base:item/tool/diamond/sickle"
   }
 }

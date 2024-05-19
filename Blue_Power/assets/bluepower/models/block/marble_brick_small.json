@@ -1,6 +1,6 @@
 ﻿{
    "parent": "block/cube_all",
    "textures": {
-      "all": "soartex_base:blocks/stone/marble/bricks"
+      "all": "soartex_base:block/stone/marble/bricks"
    }
 }

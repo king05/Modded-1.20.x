@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "soartex_base:items/armor/steel/helmet"
+    "layer0": "soartex_base:item/armor/steel/helmet"
   }
 }
