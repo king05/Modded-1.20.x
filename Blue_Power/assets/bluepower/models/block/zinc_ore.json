@@ -1,6 +1,6 @@
 ﻿{
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "soartex_base:block/metal/ore/stone/zinc"
+    "all": "soartex_base:block/ore/stone/zinc"
   }
 }

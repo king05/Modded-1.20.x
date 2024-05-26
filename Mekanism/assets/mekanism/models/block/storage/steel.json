@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-      "all": "soartex_base:block/metal/storage/steel"
+      "all": "soartex_base:block/storage/steel"
     }
   }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "soartex_base:block/gem/ore/deepslate/sapphire_blue"
+    "all": "soartex_base:block/ore/deepslate/sapphire_blue"
   }
 }

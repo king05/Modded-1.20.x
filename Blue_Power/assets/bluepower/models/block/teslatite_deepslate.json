@@ -1,6 +1,6 @@
 ﻿{
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "soartex_base:block/resource/ore/deepslate/teslatite"
+    "all": "soartex_base:block/ore/deepslate/teslatite"
   }
 }
