@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "sortex_base:item/rod/stone"
+    "layer0": "soartex_base:item/rod/stone"
   }
 }
