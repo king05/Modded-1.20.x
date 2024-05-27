@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "soartex_base:block/ore/stone/vanadium"
+    "all": "soartex_base:block/ore/stone/chromium"
   }
 }
